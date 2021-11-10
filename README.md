@@ -10,3 +10,4 @@ My first project aimed at finding the shortest amount of moves. Based on a board
 - Add colored text for clarity
 - Implement Totem Pole(TM) setups
 - Incorporate additional color branches
+- Implement player phaze branching

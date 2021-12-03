@@ -135,6 +135,7 @@ def spaceCnt(level):
     return spaces
 
 #print(temp_list)
+#small change
 
 for n in temp_list:
     print(str(spaceCnt(n[2])) + str(n))
